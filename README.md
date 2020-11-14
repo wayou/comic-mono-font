@@ -30,5 +30,17 @@ I have no font creation skills; I’m just a software developer. This font famil
 {% include_relative generate.py %}
 ```
 
+## CDN
+You can use this font in your web pages by including the stylesheet. CDN is provided by [jsDelivr](https://www.jsdelivr.com/package/npm/comic-mono).
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/comic-mono@0.0.1/index.css">
+```
+
+## npm Package
+This package is [published to npm](https://www.npmjs.com/package/comic-mono).
+
+## Packages published by third parties
+- Arch Linux AUR: [ttf-comic-mono-git](https://aur.archlinux.org/packages/ttf-comic-mono-git/) (maintained by DBourgeoisat)
+
 ## License
 It is licensed under the [MIT License](LICENSE).
