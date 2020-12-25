@@ -1,5 +1,5 @@
 # Comic Mono
-A legible monospace font... the very typeface you’ve been trained to recognize since childhood. This font is a fork of [Shannon Miwa](https://github.com/shannpersand)’s [Comic Shanns](https://github.com/shannpersand/comic-shanns).
+A legible monospace font... the very typeface you’ve been trained to recognize since childhood. This font is a fork of [Shannon Miwa](https://github.com/shannpersand)’s [Comic Shanns](https://github.com/shannpersand/comic-shanns) (version 1).
 
 <p class="website-hidden">
   <a href="https://dtinth.github.io/comic-mono-font/">
@@ -17,7 +17,7 @@ A legible monospace font... the very typeface you’ve been trained to recognize
 3. The name is changed to `Comic Mono`.
 4. A bold version of the font is generated using [FontForge’s Embolden](https://fontforge.github.io/Styles.html#Embolden) operation.
 
-I have no font creation skills; I’m just a software developer. This font family is created by patching the original font, [Comic Shanns](https://github.com/shannpersand/comic-shanns), using a Python script, [`generate.py`](generate.py).
+I have no font creation skills; I’m just a software developer. This font family is created by patching the original font, [Comic Shanns (v1)](https://github.com/shannpersand/comic-shanns), using a Python script, [`generate.py`](generate.py).
 
 ## What does it look like?
 <p class="website-hidden">
