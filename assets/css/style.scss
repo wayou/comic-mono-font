@@ -106,7 +106,7 @@ html, body, .markdown-body.comic-mono {
     .kn, .k, .ow {
       color: #c678dd;
     }
-    .mi, .mf {
+    .mi, .mf, .na {
       color: #d19a66;
     }
     .nb {
@@ -114,6 +114,9 @@ html, body, .markdown-body.comic-mono {
     }
     .nf {
       color: #61afef;
+    }
+    .nt {
+      color: #e06c75;
     }
   }
 }
