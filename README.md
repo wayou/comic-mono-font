@@ -37,9 +37,10 @@ You can use this font in your web pages by including the stylesheet. CDN is prov
 ```
 
 ## npm Package
-This package is [published to npm](https://www.npmjs.com/package/comic-mono).
+The contents of this package is also [published to npm](https://www.npmjs.com/package/comic-mono), although the font files are not optimized. See fontsource package (below) for a better option.
 
 ## Packages published by third parties
+- Fontsource: [@fontsource/comic-mono](https://www.npmjs.com/package/@fontsource/comic-mono) ([thanks @DecliningLotus](https://github.com/fontsource/fontsource/pull/117))
 - Arch Linux AUR: [ttf-comic-mono-git](https://aur.archlinux.org/packages/ttf-comic-mono-git/) (maintained by DBourgeoisat)
 
 ## License
