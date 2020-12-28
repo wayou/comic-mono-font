@@ -12,7 +12,7 @@ A legible monospace font... the very typeface you’ve been trained to recognize
 - [ComicMono-Bold.ttf](https://dtinth.github.io/comic-mono-font/ComicMono-Bold.ttf)
 
 ## Differences from Comic Shanns
-1. All glyphs have been adjusted to have exactly the same width (using code based on [monospacifier](https://github.com/cpitclaudel/monospacifier)).
+1. All glyphs have been [adjusted](https://www.reddit.com/r/programming/comments/kj0prs/comic_mono_font/ghc7krt/?utm_source=reddit&utm_medium=web2x&context=3) to have exactly the same width (using code based on [monospacifier](https://github.com/cpitclaudel/monospacifier)).
 2. The glyph metrics have been adjusted to make it display better alongside system font, based on [Cousine](https://fonts.google.com/specimen/Cousine)’s metrics.
 3. The name is changed to `Comic Mono`.
 4. A bold version of the font is generated using [FontForge’s Embolden](https://fontforge.github.io/Styles.html#Embolden) operation.
