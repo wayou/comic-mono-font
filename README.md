@@ -5,7 +5,8 @@ comic mono font with programming ligatures based on [comic-mono-font](https://dt
 ## installation
 
 ```
-$ brew install --cask font-liga-comic-mono
+brew tap homebrew/cask-fonts  
+brew install --cask font-liga-comic-mono
 ```
 ## preview
 
